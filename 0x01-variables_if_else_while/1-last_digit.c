@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * Main -print the last digit of random numbers store
+ *main -print the last digit of random numbers store
  *
  * Return: Alaways 0.
  */
