@@ -1,19 +1,19 @@
-#include "main.h"
+#include"main.h"
 /**
-* print alphabet  10 times n lower case
-*
-* Return; 0
-*/
-void print_alhabet_x1o(void)
+ * print_alphabet_x10 - function to print abc 10 times
+ *
+ * Return: 0
+ */
+void print_alphabet_x10(void)
 {
 	char c, i;
 
 	for (i = 0; i <= 9; i++)
 	{
-		for (c = 'a' ; c <= 'z' ; c++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			_putchar(C);
+			_putchar(c);
 		}
-		_putchar('\n'); :
+	_putchar('\n');
 	}
 }
