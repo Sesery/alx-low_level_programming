@@ -27,4 +27,3 @@ int_atoi(char *s)
 	res *= sign;
 	return (res);
 }
-
